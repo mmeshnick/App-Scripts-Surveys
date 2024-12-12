@@ -1,5 +1,6 @@
 ## KCRN Quarterly Data Load Process
 Requirements: node.js https://nodejs.org/en/download/
+
 Clasp https://github.com/google/clasp
 
 Sunsetted project - quarterly King County Reengagement Network reporting project. Originally hosted on a Wordpress site administered by a third-party contractor, with ETL in Python. Shifted to Google Sheets data entry, powered by Google App Scripts, created by Max Meshnick. Property of the Community Center for Education Results.
